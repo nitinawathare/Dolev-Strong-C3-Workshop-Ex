@@ -1,0 +1,4 @@
+accepted value by node 1 is 7
+accepted value by node 2 is 5
+accepted value by node 3 is 7
+accepted value by node 4 is 5
